@@ -1,0 +1,344 @@
+{
+  "Header": {
+    "title": "Steward",
+    "paragraph": "",
+    "equipos":[
+      {
+        "id": 1,
+        "url": "refrigerador-mastercold-lrb-1471pc-2pta-1245l.webp",
+        "link": "https://steward.cl/refrigeradores/3951-refrigerador-mastercold-lrb-1471pc-2pta-1245l.html",
+        "width": 100,
+        "height": 130,
+        "top": 200,
+        "left": 1030,
+        "nombre": "Refrigerador 2 Puertas",
+        "categoria": "Refrigeración",
+        "precio": 200000
+      },
+      {
+        "id": 2,
+        "url": "refrigerador-mastercold-lrb-771pc-1pta-546l.webp",
+        "link": "https://steward.cl/refrigeradores/3841-refrigerador-mastercold-lrb-771pc-1pta-546l.html",
+        "width": 50,
+        "height": 150,
+        "top": 180,
+        "left": 980,
+        "nombre": "Refrigerador 1 Puerta",
+        "categoria": "Refrigeración",
+        "precio": 100000
+      },
+      {
+        "id": 3,
+        "url": "estante-epoxico-1220x600x1800mm--bc-big-cook.webp",
+        "link": "https://steward.cl/estantes/3023-estante-epoxico-1220x600x1800mm--bc-big-cook.html",
+        "width": 80,
+        "height": 110,
+        "top": 190,
+        "left": 575,
+        "nombre": "Estante Epoxico",
+        "categoria": "Carpintería",
+        "precio": 200000
+      },
+      {
+        "id": 4,
+        "url": "lavafondo-inox-1tz-70x60cm-bc-big-cook-d.webp",
+        "link": "https://steward.cl/lavafondos-y-lavaderos/3088-lavafondo-inox-1tz-70x60cm-bc-big-cook-d.html",
+        "width": 50,
+        "height": 40,
+        "top": 400,
+        "left": 660,
+        "nombre": "Lavafondo",
+        "categoria": "Carpintería",
+        "precio": 200000
+      },
+      {
+        "id": 5,
+        "url": "lavavajilla-capota-ata-b51-380v-n84.webp",
+        "link": "https://steward.cl/lavavajillas/3886-lavavajilla-capota-ata-b51-380v-n84.html",
+        "width": 60,
+        "height": 100,
+        "top": 270,
+        "left": 420,
+        "nombre": "Lavavajilla",
+        "categoria": "Zona de Lavado",
+        "precio": 200000
+      },
+      {
+        "id": 6,
+        "url": "no-image.webp",
+        "link": "https://steward.cl/cocinas/4086-anafe-bajo-central-big-cook-6pl-43x43-130x94x60cm-glp.html",
+        "width": 120,
+        "height": 60,
+        "top": 450,
+        "left": 460,
+        "nombre": "Anafe",
+        "categoria": "Cocción",
+        "precio": 200000
+      }
+    ]
+  },
+
+  "About": {
+    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "Why": [
+      "Lorem ipsum dolor",
+      "Tempor incididunt",
+      "Lorem ipsum dolor",
+      "Incididunt ut labore"
+    ],
+    "Why2": [
+      "Aliquip ex ea commodo",
+      "Lorem ipsum dolor",
+      "Exercitation ullamco",
+      "Lorem ipsum dolor"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Autoservicio",
+      "link": "https://steward.cl/16-autoservicio",
+      "smallImage": "img/portfolio/autoservicio.jpg"
+    },
+    {
+      "title": "Carpintería",
+      "link": "https://steward.cl/18-carpinteria",
+      "smallImage": "img/portfolio/carpinteria.jpg"
+    },
+    {
+      "title": "Cocción",
+      "link": "https://steward.cl/19-coccion",
+      "smallImage": "img/portfolio/coccion.jpg"
+    },
+    {
+      "title": "Cook & Chill",
+      "link": "https://steward.cl/21-cook-chill",
+      "smallImage": ""
+    },
+    {
+      "title": "Panadería",
+      "link": "https://steward.cl/23-panaderia",
+      "smallImage": "img/portfolio/panaderia.jpg"
+    },
+    {
+      "title": "Pre Elaboración",
+      "link": "https://steward.cl/24-pre-elaboracion",
+      "smallImage": "img/portfolio/pre-elaboracion.jpg"
+    },
+    {
+      "title": "Refrigeración",
+      "link": "https://steward.cl/25-refrigeracion",
+      "smallImage": "img/portfolio/refrigeracion.jpg"
+    },
+    {
+      "title": "Zona de Lavado",
+      "link": "https://steward.cl/27-zona-de-lavado",
+      "smallImage": "img/portfolio/zona-lavado.jpg"
+    },
+    {
+      "title": "Transporte y Almacenaje",
+      "link": "https://steward.cl/30-transporte-y-almacenaje",
+      "smallImage": "img/portfolio/transporte-y-almacenaje.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-wordpress",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-language",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Lorem ipsum dolor",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Consectetur adipiscing",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Mervin",
+      "job": "Programador Web"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mauricio",
+      "job": "Jefe de Comunicaciones y Marketing Digital"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Nayade",
+      "job": "Diseñadora"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Tamara",
+      "job": "Category Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Américo Vespucio Norte 0655 Huechuraba",
+    "phone": "(+56) 2 2756 6000 opción 1",
+    "email": "postventa@steward.cl",
+    "facebook": "https://www.facebook.com/stewardchile/",
+    "twitter": "https://twitter.com/steward_chile?lang=es",
+    "youtube": "https://www.youtube.com/channel/UCuDzdsZFRM1Qj7i3qNPHMgA",
+    "linkedin": "https://www.linkedin.com/company/steward-chile/"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Autoservicio",
+      "text": "Vitrinas, Dispensadores, Hervidores y más.",
+      "smallImage": "img/portfolio/autoservicio.jpg",
+      "n3": [
+        {
+        "nombre": "Arroceras",
+        "link": "https://steward.cl/31-arroceras"
+        },
+        {
+          "nombre": "Baño María",
+          "link": "https://steward.cl/32-bano-maria"
+        },
+        {
+        "nombre": "Contenedores",
+        "link": "https://steward.cl/35-contenedores"
+        },
+        {
+          "nombre": "Desliza Bandejas",
+          "link": "https://steward.cl/36-desliza-bandejas"
+        },
+        {
+        "nombre": "Dispensadores",
+        "link": "https://steward.cl/31-arroceras"
+        },
+        {
+          "nombre": "Hervidores",
+          "link": "https://steward.cl/32-bano-maria"
+        },
+        {
+        "nombre": "Mantenedores de Proteinas",
+        "link": "https://steward.cl/35-contenedores"
+        },
+        {
+          "nombre": "Party",
+          "link": "https://steward.cl/36-desliza-bandejas"
+        },
+        {
+        "nombre": "Percoladores",
+        "link": "https://steward.cl/31-arroceras"
+        },
+        {
+          "nombre": "Salad Bar",
+          "link": "https://steward.cl/32-bano-maria"
+        },
+        {
+        "nombre": "Tostadores",
+        "link": "https://steward.cl/35-contenedores"
+        },
+        {
+          "nombre": "Vitrinas",
+          "link": "https://steward.cl/36-desliza-bandejas"
+        }
+      ]
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Carpintería",
+      "text": "Equipos gastronómicos de Carpintería.",
+      "smallImage": "img/portfolio/carpinteria.jpg"
+    },
+    {
+      "icon": "fa fa-cloud-download",
+      "title": "Cocción",
+      "text": "Equipos gastronómicos de Cocción.",
+      "smallImage": "img/portfolio/coccion.jpg"
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Cook & Chill",
+      "text": "Equipamientos Cook & Chill.",
+      "smallImage": ""
+    },
+    {
+      "icon": "fa fa-comments-o",
+      "title": "Panadería",
+      "text": "Equipamientos para Panadería.",
+      "smallImage": "img/portfolio/panaderia.jpg"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Pre Elaboración",
+      "text": "Equipos de Pre-elaboración para cocina.",
+      "smallImage": "img/portfolio/pre-elaboracion.jpg"
+    },
+    {
+      "icon": "fa fa-bullhorn",
+      "title": "Refrigeración",
+      "text": "Equipos de refrigeración industrial.",
+      "smallImage": "img/portfolio/refrigeracion.jpg"
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Zona de Lavado",
+      "text": "Equipos para lavado de vajilla y menaje.",
+      "smallImage": "img/portfolio/zona-lavado.jpg"
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Transporte y Almacenaje",
+      "text": "Equipos de transporte y almacenaje para restaurantes.",
+      "smallImage": "img/portfolio/transporte-y-almacenaje.jpg"
+    }
+  ]
+}

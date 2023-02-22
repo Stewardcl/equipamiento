@@ -1,0 +1,29 @@
+:root {
+    --product-bg: #000;
+    --product-bg: transparent;
+}
+
+.gwd-div{
+    position: absolute;
+    border-radius: 10px 0px 0px;
+    border: solid;
+    border-color: var(--product-bg);
+    z-index: 1;
+}
+
+.equip {
+    position: absolute;
+    top: 379px;
+    left: 910px;
+}
+
+.nombre {
+    position: absolute;
+    top: 110px;
+    left: 10px;
+
+}
+.nombre p {
+    color : black;
+    font-size: 25px;
+}
